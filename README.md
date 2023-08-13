@@ -17,3 +17,6 @@ I originally created this for [Hello There](https://hellothereapp.us) and though
 ![Image](views.png)
 
 ![Image](template.png)
+
+Feel free to fork and play around with the layout. I'd love to see what you create!  
+Ping me on Twitter: [@thatvirtualboy](https://twitter.com/thatvirtualboy)

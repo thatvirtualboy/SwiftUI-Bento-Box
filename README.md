@@ -11,7 +11,6 @@ I originally created this for [Hello There](https://hellothereapp.us) and though
 • Works best with a landscape iPad Pro preview  
 • I've set up the project to be in 3 columns: A, B, and C. Views correspond to their relative placements in preview  
 • The template uses image placeholders -- you'll need to provide your own content  
-• This 
 • This project was created using Xcode 15 beta 6  
 
 #### Each block is its own view

@@ -5,7 +5,7 @@
 
 ![Image](hellothere-23-bento-rounded.png)
 
-I originally created this for [Hello There](https://hellothereapp.us) and thought it would be fun to share it with the iOS Developer community. 
+I originally created this for [Hello There](https://apple.co/3TWTeey) and thought it would be fun to share it with the iOS Developer community. 
 
 ## A Few Notes
 • Works best with a landscape iPad Pro preview  

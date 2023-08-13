@@ -1,0 +1,415 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		692CE6382A8800FD008A2BAA /* SwiftUI_Bento_BoxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE6372A8800FD008A2BAA /* SwiftUI_Bento_BoxApp.swift */; };
+		692CE63C2A880101008A2BAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 692CE63B2A880101008A2BAA /* Assets.xcassets */; };
+		692CE63F2A880101008A2BAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 692CE63E2A880101008A2BAA /* Preview Assets.xcassets */; };
+		692CE6522A880135008A2BAA /* B2Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE6462A880135008A2BAA /* B2Box.swift */; };
+		692CE6532A880135008A2BAA /* CenterImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE6472A880135008A2BAA /* CenterImage.swift */; };
+		692CE6542A880135008A2BAA /* C4Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE6482A880135008A2BAA /* C4Box.swift */; };
+		692CE6552A880135008A2BAA /* A1Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE6492A880135008A2BAA /* A1Box.swift */; };
+		692CE6562A880135008A2BAA /* C1Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE64A2A880135008A2BAA /* C1Box.swift */; };
+		692CE6572A880135008A2BAA /* A2Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE64B2A880135008A2BAA /* A2Box.swift */; };
+		692CE6582A880135008A2BAA /* C5Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE64C2A880135008A2BAA /* C5Box.swift */; };
+		692CE6592A880135008A2BAA /* C2Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE64D2A880135008A2BAA /* C2Box.swift */; };
+		692CE65A2A880135008A2BAA /* B3Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE64E2A880135008A2BAA /* B3Box.swift */; };
+		692CE65B2A880135008A2BAA /* B1Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE64F2A880135008A2BAA /* B1Box.swift */; };
+		692CE65C2A880135008A2BAA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE6502A880135008A2BAA /* ContentView.swift */; };
+		692CE65D2A880135008A2BAA /* C3Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE6512A880135008A2BAA /* C3Box.swift */; };
+		692CE6602A880210008A2BAA /* ForegroundGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CE65F2A880210008A2BAA /* ForegroundGradient.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		692CE6342A8800FD008A2BAA /* SwiftUI-Bento-Box.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Bento-Box.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		692CE6372A8800FD008A2BAA /* SwiftUI_Bento_BoxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Bento_BoxApp.swift; sourceTree = "<group>"; };
+		692CE63B2A880101008A2BAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		692CE63E2A880101008A2BAA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		692CE6462A880135008A2BAA /* B2Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = B2Box.swift; sourceTree = "<group>"; };
+		692CE6472A880135008A2BAA /* CenterImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CenterImage.swift; sourceTree = "<group>"; };
+		692CE6482A880135008A2BAA /* C4Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = C4Box.swift; sourceTree = "<group>"; };
+		692CE6492A880135008A2BAA /* A1Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = A1Box.swift; sourceTree = "<group>"; };
+		692CE64A2A880135008A2BAA /* C1Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = C1Box.swift; sourceTree = "<group>"; };
+		692CE64B2A880135008A2BAA /* A2Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = A2Box.swift; sourceTree = "<group>"; };
+		692CE64C2A880135008A2BAA /* C5Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = C5Box.swift; sourceTree = "<group>"; };
+		692CE64D2A880135008A2BAA /* C2Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = C2Box.swift; sourceTree = "<group>"; };
+		692CE64E2A880135008A2BAA /* B3Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = B3Box.swift; sourceTree = "<group>"; };
+		692CE64F2A880135008A2BAA /* B1Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = B1Box.swift; sourceTree = "<group>"; };
+		692CE6502A880135008A2BAA /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		692CE6512A880135008A2BAA /* C3Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = C3Box.swift; sourceTree = "<group>"; };
+		692CE65F2A880210008A2BAA /* ForegroundGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForegroundGradient.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		692CE6312A8800FD008A2BAA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		692CE62B2A8800FD008A2BAA = {
+			isa = PBXGroup;
+			children = (
+				692CE6362A8800FD008A2BAA /* SwiftUI-Bento-Box */,
+				692CE6352A8800FD008A2BAA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		692CE6352A8800FD008A2BAA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				692CE6342A8800FD008A2BAA /* SwiftUI-Bento-Box.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		692CE6362A8800FD008A2BAA /* SwiftUI-Bento-Box */ = {
+			isa = PBXGroup;
+			children = (
+				692CE6372A8800FD008A2BAA /* SwiftUI_Bento_BoxApp.swift */,
+				692CE65E2A8801FD008A2BAA /* Utilities */,
+				692CE6452A880124008A2BAA /* Views */,
+				692CE63B2A880101008A2BAA /* Assets.xcassets */,
+				692CE63D2A880101008A2BAA /* Preview Content */,
+			);
+			path = "SwiftUI-Bento-Box";
+			sourceTree = "<group>";
+		};
+		692CE63D2A880101008A2BAA /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				692CE63E2A880101008A2BAA /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		692CE6452A880124008A2BAA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				692CE6502A880135008A2BAA /* ContentView.swift */,
+				692CE6492A880135008A2BAA /* A1Box.swift */,
+				692CE64B2A880135008A2BAA /* A2Box.swift */,
+				692CE64F2A880135008A2BAA /* B1Box.swift */,
+				692CE6462A880135008A2BAA /* B2Box.swift */,
+				692CE6472A880135008A2BAA /* CenterImage.swift */,
+				692CE64E2A880135008A2BAA /* B3Box.swift */,
+				692CE64A2A880135008A2BAA /* C1Box.swift */,
+				692CE64D2A880135008A2BAA /* C2Box.swift */,
+				692CE6512A880135008A2BAA /* C3Box.swift */,
+				692CE6482A880135008A2BAA /* C4Box.swift */,
+				692CE64C2A880135008A2BAA /* C5Box.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		692CE65E2A8801FD008A2BAA /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				692CE65F2A880210008A2BAA /* ForegroundGradient.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		692CE6332A8800FD008A2BAA /* SwiftUI-Bento-Box */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 692CE6422A880101008A2BAA /* Build configuration list for PBXNativeTarget "SwiftUI-Bento-Box" */;
+			buildPhases = (
+				692CE6302A8800FD008A2BAA /* Sources */,
+				692CE6312A8800FD008A2BAA /* Frameworks */,
+				692CE6322A8800FD008A2BAA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SwiftUI-Bento-Box";
+			productName = "SwiftUI-Bento-Box";
+			productReference = 692CE6342A8800FD008A2BAA /* SwiftUI-Bento-Box.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		692CE62C2A8800FD008A2BAA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					692CE6332A8800FD008A2BAA = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 692CE62F2A8800FD008A2BAA /* Build configuration list for PBXProject "SwiftUI-Bento-Box" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 692CE62B2A8800FD008A2BAA;
+			productRefGroup = 692CE6352A8800FD008A2BAA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				692CE6332A8800FD008A2BAA /* SwiftUI-Bento-Box */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		692CE6322A8800FD008A2BAA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				692CE63F2A880101008A2BAA /* Preview Assets.xcassets in Resources */,
+				692CE63C2A880101008A2BAA /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		692CE6302A8800FD008A2BAA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				692CE65A2A880135008A2BAA /* B3Box.swift in Sources */,
+				692CE65D2A880135008A2BAA /* C3Box.swift in Sources */,
+				692CE65B2A880135008A2BAA /* B1Box.swift in Sources */,
+				692CE6562A880135008A2BAA /* C1Box.swift in Sources */,
+				692CE6582A880135008A2BAA /* C5Box.swift in Sources */,
+				692CE65C2A880135008A2BAA /* ContentView.swift in Sources */,
+				692CE6592A880135008A2BAA /* C2Box.swift in Sources */,
+				692CE6602A880210008A2BAA /* ForegroundGradient.swift in Sources */,
+				692CE6532A880135008A2BAA /* CenterImage.swift in Sources */,
+				692CE6542A880135008A2BAA /* C4Box.swift in Sources */,
+				692CE6382A8800FD008A2BAA /* SwiftUI_Bento_BoxApp.swift in Sources */,
+				692CE6522A880135008A2BAA /* B2Box.swift in Sources */,
+				692CE6552A880135008A2BAA /* A1Box.swift in Sources */,
+				692CE6572A880135008A2BAA /* A2Box.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		692CE6402A880101008A2BAA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		692CE6412A880101008A2BAA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		692CE6432A880101008A2BAA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI-Bento-Box/Preview Content\"";
+				DEVELOPMENT_TEAM = 62X8RDXJ3W;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.raktech.SwiftUI-Bento-Box";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		692CE6442A880101008A2BAA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI-Bento-Box/Preview Content\"";
+				DEVELOPMENT_TEAM = 62X8RDXJ3W;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.raktech.SwiftUI-Bento-Box";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		692CE62F2A8800FD008A2BAA /* Build configuration list for PBXProject "SwiftUI-Bento-Box" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				692CE6402A880101008A2BAA /* Debug */,
+				692CE6412A880101008A2BAA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		692CE6422A880101008A2BAA /* Build configuration list for PBXNativeTarget "SwiftUI-Bento-Box" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				692CE6432A880101008A2BAA /* Debug */,
+				692CE6442A880101008A2BAA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 692CE62C2A8800FD008A2BAA /* Project object */;
+}

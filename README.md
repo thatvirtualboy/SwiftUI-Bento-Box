@@ -1,5 +1,6 @@
 # SwiftUI Bento Box
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/phiredrop)  
+<a href="https://www.buymeacoffee.com/thatvirtualboy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 #### Create your own SwiftUI Bento Box to market your app's features!
 

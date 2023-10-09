@@ -2,11 +2,15 @@
 <a href="https://www.buymeacoffee.com/thatvirtualboy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-#### Create your own SwiftUI Bento Box to market your app's features!
+#### Create your own SwiftUI Bento Box in Xcode to market your app's features!
 
 ![Image](hellothere-23-bento-rounded.png)
 
-I originally created this for [Hello There](https://apple.co/3TWTeey) and thought it would be fun to share it with the iOS Developer community. 
+Note: This project is now being developed as a fully interactive iPad App called [Bento|Craft](https://thatvirtualboy.com/bentocraft), free on the App Store. 
+
+---
+
+I originally created this project for [Hello There](https://apple.co/3TWTeey) so I could mimc Apple's gorgeous bento-style feature summaries. After it came together, I thought it would be fun to share it with the iOS Developer community. 
 
 ## A Few Notes
 • Works best with a landscape iPad Pro preview  
